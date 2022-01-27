@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Weather App
+## [Live Preview](https://gitanimous.github.io/weather-app/)
+![image](https://user-images.githubusercontent.com/34681035/151411616-ebba1a87-f081-4d5c-8fc2-00d1f6bd95c6.png)
+
+
+## This is my first react project, it uses openweathermap's API check it out [here](https://openweathermap.org/)
 
 ## Available Scripts
 
